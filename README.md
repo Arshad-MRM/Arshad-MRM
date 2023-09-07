@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arshad MRM</h1>
-<h3 align="center">A passionate Computer Engineer Undergratuate from University of Peradeniya, Sri Lanka</h3>
+<h3 align="center">A passionate Computer Engineer Undergraduate from University of Peradeniya, Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshad-mrm&label=Profile%20views&color=0e75b6&style=flat" alt="arshad-mrm" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Smart-Home Project](https://github.com/cepdnaclk/e17-3yp-smart-home)
-- 🌱 I’m currently working **Web Application, Networking, Embedded system, Algorithms**
+- 🔭 I’m currently working on [OS-initiated cache switching to minimize performance loss in Context switches] FYP project.(https://github.com/cepdnaclk/e17-4yp-os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches)
 - 📫 How to reach me **arshadme894@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
