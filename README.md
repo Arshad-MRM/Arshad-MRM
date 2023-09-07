@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [OS-initiated cache switching to minimize performance loss in Context switches] FYP project.(https://github.com/cepdnaclk/e17-4yp-os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches)
+- 🔭 I’m currently working on [OS-initiated cache switching to minimize performance loss in Context switches](https://github.com/cepdnaclk/e17-4yp-os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches) FYP project.
 - 📫 How to reach me **arshadme894@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
